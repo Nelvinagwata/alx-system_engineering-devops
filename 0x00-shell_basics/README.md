@@ -5,3 +5,4 @@ Display current directory contents in a long format
 creates a directory
 Move file Betty
 Delete a file "betty"
+Delete directory in tmp
