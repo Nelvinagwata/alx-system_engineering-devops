@@ -10,3 +10,4 @@ Change current directory to the previous one
 Listing all files in the current, parent and /boot directory
 a script that prints the type of the file named iamafile
 Creating symbolic links
+Copy all HTML file from current to working directory
