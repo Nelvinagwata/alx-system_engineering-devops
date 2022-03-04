@@ -7,3 +7,4 @@ Move file Betty
 Delete a file "betty"
 Delete directory in tmp
 Change current directory to the previous one
+Listing all files in the current, parent and /boot directory
