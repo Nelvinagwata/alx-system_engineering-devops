@@ -6,3 +6,4 @@ creates a directory
 Move file Betty
 Delete a file "betty"
 Delete directory in tmp
+Change current directory to the previous one
